@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{270A9CAF-DB2E-4111-B736-0E63B2460E65}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Presentations FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Example.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example.Web/Program.cs">
+    <Files>
+      <File FileName="Example.Web/Extensions/ServiceEctensions.cs" Line="22" Column="60" />
+      <File FileName="Example.Web/Program.cs" Line="2" Column="6" />
+      <File FileName="Services/Contracts/IStudentService.cs" Line="9" Column="41" />
+      <File FileName="Services/Contracts/IServiceMananger.cs" Line="7" Column="3" />
+      <File FileName="Services/StudentMananger.cs" Line="21" Column="1" />
+      <File FileName="Services/ServiceMananger.cs" Line="2" Column="30" />
+      <File FileName="Presantations/Controller/StudentController.cs" Line="24" Column="1" />
+      <File FileName="Presantations/AssemblyReferenge.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi" expanded="True">
+            <Node name="Example.Web" selected="True">
+              <Node name="Extensions" expanded="True" />
+            </Node>
+            <Node name="Presantations" expanded="True" />
+            <Node name="Repositories">
+              <Node name="EFCore" expanded="True">
+                <Node name="Config" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Services">
+              <Node name="Contracts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Repositories FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Services FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Entities FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
